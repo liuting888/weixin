@@ -9,8 +9,8 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "1.9.94",
-	"appid": "touristappid",
-	"projectname": "navigator%E7%BB%84%E4%BB%B6",
+	"appid": "wx29a202f42f2117ff",
+	"projectname": "%E4%B8%AA%E4%BA%BADemo",
 	"condition": {
 		"search": {
 			"current": -1,
